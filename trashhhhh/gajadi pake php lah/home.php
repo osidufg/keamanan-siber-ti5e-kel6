@@ -16,50 +16,32 @@
     </head>
     <body>
         <!-- Sidebar -->
-        <nav class="navbar navbar-dark navbar-expand-lg bg-black bg-opacity-75">
+        <nav class="navbar navbar-dark navbar-expand-lg bg-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">TI 5E Kelompok 6</a>
+          <a class="navbar-brand" href="#">Sebuah Website</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link" href="pg1.html">Fatih Ahmad Fadhlullah</a>
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="pg2.html">Guntur Setya Arya Pradana</a>
+                <a class="nav-link" href="add.php">page 2</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="pg3.html">Iqbal Maulana</a>
+                <a class="nav-link" href="view.php">page 3</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="pg4.html">Siti Khodijah</a>
+                <a class="nav-link" href="profile.php">page 4</a>
               </li>
             </ul>
           </div>
         </div>
         </nav>
         <!-- End Sidebar -->
-        <!-- Content -->
-        <div class="content-main p-5">
-          <h1 class="display-2 text-center">Iqbal Maulana</h1>
-          <div class="text-center m-5">
-            <img src="assets/img/profile-blank.svg" alt="" class="img-fluid rounded-circle" width="250">
-          </div>
-          <h2 class="display-5 text-center">Profile</h2>
-          <p class="text-center">Nama : Iqbal Maulana</p>
-          <p class="text-center">NIM : xxxxx</p>
-          <p class="text-center">Kelas : TI 5E</p>
-          <p class="text-center">Prodi : Teknik Informatika</p>
-          <p class="text-center">Email : xxxxx</p>
-        </div>
-        <!-- End Content -->
-        <!-- Footer -->
-        <div class="footer fixed-bottom bg-black bg-opacity-75 text-light p-3">
-          <p class="text-center">2022 - Keamanan Siber</p>
-        </div>
-        <!-- End Footer -->
+        <h1>tes</h1>
     </body>
     </html>
 </html>
